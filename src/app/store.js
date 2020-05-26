@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import tweetReducer from '../features/GloboRelay/tweetSlice';
 
 export default configureStore({
   reducer: {
-    counter: counterReducer,
+    tweet: tweetReducer
   },
 });
