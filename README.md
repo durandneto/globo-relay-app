@@ -23,10 +23,10 @@ https://github.com/durandneto/react-components-starter
 https://durandneto.github.io/react-components-starter/docs
 
 # Hot to run
-`git clone https://github.com/durandneto/globo-relay-app`
-`cd globo-relay-app`
-`yarn install`
-`yarn start`
+### git clone https://github.com/durandneto/globo-relay-app
+### cd globo-relay-app
+### yarn install
+### yarn start
 
 ## Available Scripts
 
