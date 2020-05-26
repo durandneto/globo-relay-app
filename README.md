@@ -2,7 +2,7 @@
 Created by Durand Neto and bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 
-#Thoughts:
+# Thoughts:
 
 I thought about creating an application in standard React JS but at the beginning of development I preferred to use a component library that I've been doing in a tutorial for youtube. So I created all the separate components of the business rule and put it in a separate project so that it can be reused in all the projects I've been doing so I avoid creating the same thing every time.
 
